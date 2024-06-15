@@ -1,0 +1,34 @@
+{
+  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "title": "Aaditya Khwakhwali",
+  "name": "Aaditya Khwakhwali",
+  "ascii": "Aaditya Khwakhwali",
+  "social": {
+    "linkedin": "linkedin"
+  },
+  "email": "hello@aadityakhwakhwali.com.np",
+  "ps1_hostname": "aaditya_khwakhwali",
+  "ps1_username": "aaditya_khwakhwali",
+  "resume_url": "https://drive.google.com/file/d/10-RZVrfjzO6oSmL_Xht9gj3PTK3srHXE/view?usp=drivesdk",
+  
+  "colors": {
+    "light": {
+      "background": "#FBF1C9",
+      "foreground": "#3C3836",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#2E3440",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
+      "gray": "#88C0D0",
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
+    }
+  }
+}
